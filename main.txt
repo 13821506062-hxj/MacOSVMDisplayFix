@@ -1,0 +1,1 @@
+sudo defaults delete /Library/Preferences/com.apple.windowserver.plist && sudo "/Library/Application Support/VMware Tools/vmware-resolutionSet" 1600 900
